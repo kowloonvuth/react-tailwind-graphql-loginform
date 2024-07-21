@@ -54,6 +54,7 @@ export default function App(){
             <div className="w-full lg:w-1/2 px-4 mb-16 lg:mb-0">
               <div className="max-w-lg lg:pt-8 2xl:pt-24 lg:pb-8 mx-auto 2xl:mr-0">
                 <h3 className="text-5xl sm:text-6xl text-gray-900 font-bold mb-4">Welcome Back</h3>
+                <p className="text-lg bg-red-600 text-gray-500 mb-15">See out software in action with the demo version</p>
               </div>
             </div>
           </div>
